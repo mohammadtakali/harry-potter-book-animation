@@ -6,7 +6,7 @@ No JavaScript, no frameworks — every animation is built with `transform`, `tra
 
 ## 📑 Table of Contents
 
-- [Demo](https://mohammadtakali.github.io/harry-potter-book-animation/)
+- [Demo](#-demo)
 - [Features](#-features)
 - [Tech Stack](#️-tech-stack)
 - [Project Structure](#-project-structure)
@@ -16,8 +16,7 @@ No JavaScript, no frameworks — every animation is built with `transform`, `tra
 
 ## 🔗 Demo
 
-[Live Demo](#) <!-- replace # with your GitHub Pages / Netlify / Vercel link once deployed -->
-
+[Live Demo](https://mohammadtakali.github.io/harry-potter-book-animation/) 
 ## ✨ Features
 
 - 📘 **3D Book Flip (Hero Section):** A closed book with a front cover and spine that rotates open in 3D perspective on hover.
